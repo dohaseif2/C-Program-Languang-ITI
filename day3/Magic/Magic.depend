@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696952887 source:d:\iti\c\day2\magic\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+

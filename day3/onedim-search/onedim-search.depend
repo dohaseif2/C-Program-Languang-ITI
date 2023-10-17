@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696933537 source:d:\iti\c\day2\onedim-search\main.c
+	<stdio.h>
+	<stdlib.h>
+

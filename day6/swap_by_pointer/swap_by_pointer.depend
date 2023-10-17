@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697305148 source:d:\iti\c\day2\swap_by_pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+

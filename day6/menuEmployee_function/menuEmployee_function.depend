@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697524901 source:d:\iti\c\day2\menuemployee_function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+

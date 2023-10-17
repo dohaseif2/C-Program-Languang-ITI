@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697105381 source:d:\iti\c\day2\structarray\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697304140 source:d:\iti\c\day2\calculatorfunction_by_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+
